@@ -8,11 +8,12 @@ authors = ["Pengfei Liu <liu.pengfei@hotmail.fr>"]
 python = "^3.8"
 jupyter = "^1.0.0"
 geopandas = "^0.11.1"
-matplotlib = "^3.6.1"
+matplotlib = "^3.1"
 kaggle = "^1.5.12"
 folium = "^0.13.0"
 geopy = "^2.2.0"
 Rtree = "^1.0.1"
+seaborn = "^0.12.1"
 
 [tool.poetry.dev-dependencies]
 
